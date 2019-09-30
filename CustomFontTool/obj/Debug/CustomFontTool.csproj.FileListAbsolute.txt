@@ -1,0 +1,10 @@
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\bin\Debug\CustomFontTool.exe.config
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\bin\Debug\CustomFontTool.exe
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\bin\Debug\CustomFontTool.pdb
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.csprojAssemblyReference.cache
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.Form1.resources
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.Properties.Resources.resources
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.csproj.GenerateResource.cache
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.csproj.CoreCompileInputs.cache
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.exe
+E:\Test_Workspace\VS\自定义字库\CustomFontTool\CustomFontTool\obj\Debug\CustomFontTool.pdb

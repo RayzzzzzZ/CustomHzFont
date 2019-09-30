@@ -2,7 +2,7 @@
 PC software only support HZ16*16,change it as you wish.
 
 mcu test code
-``
+```
 typedef struct
 {
     uint8_t Index[2];   //汉字内码索引
@@ -28,4 +28,4 @@ int16_t findHzIndex(char *hz)                     /* 在自定义�
     
     return -1;
 }
-``
+```
